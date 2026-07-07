@@ -31,7 +31,7 @@ I am an active open-source developer committed to building public-domain digital
   * **Overview:** The foundational AI platform that initiated my advanced computational research track.
   * **Architecture:** Engineered a RAG-driven dry-lab screening platform utilizing Llama 3.2 to accelerate drug discovery targeting Alzheimer's Disease pathways, automating macromolecular docking analysis.
 
-* **🩸 Non-Invasive Glucometer**[
+* **🩸 Non-Invasive Glucometer**
   * **Overview:** Led the technical development of a prototype engineered in C on an Arduino Uno platform to eliminate traditional finger-prick blood sampling.
   * **Architecture:** Spearheaded the integration of safe infrared (IR) optical sensors to evaluate blood glucose concentration through real-time transmissive blood density analysis.
 
@@ -47,7 +47,7 @@ I am an active open-source developer committed to building public-domain digital
 * Claude 3.5 Haiku, Llama 3.2, RAG, Gemini API, Prompt Engineering.
 
 **Infrastructure, MLOps & Visualization:**
-* Docker, GitHub Actions, MLflow, FastAPI, Streamlit[cite: 1].
+* Docker, GitHub Actions, MLflow, FastAPI, Streamlit.
 * PostgreSQL, MySQL, Chroma DB.
 
 ---
